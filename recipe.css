@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    background-color: burlywood;
+    border: 10px solid powderblue;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+}
+
+h3 {
+    color: coral;
+    background-color: azure;
+    font-size: 30px;
+    font-style: italic;
+    border: 0.8px solid blueviolet;
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+}
+
+section {
+    background-color: lightgrey;
+    width: auto;
+}
+
+img {
+    float: left;
+}
+
